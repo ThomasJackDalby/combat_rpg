@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Solar Panel",
+        "actions":[
+            {
+                "type":"charge",
+                "amount":5
+            }
+        ],
+        "stats":[
+            {
+                "stat" : "max_charge",
+                "amount" : 5
+            }
+        ]
+    }
+
+
+]
