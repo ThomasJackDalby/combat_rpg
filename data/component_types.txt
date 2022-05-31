@@ -1,0 +1,49 @@
+Battery
+Small Battery
+4 0 10 0
+
+Battery
+Battery
+6 0 15 0
+
+Battery
+Large Battery
+8 0 20 0
+
+Battery
+Small Armoured Battery
+4 2 10 0
+
+Generator
+Small Electric Generator
+4 0 0 0
+P Generate modify_charge 2
+A Overclock modify_charge 20
+
+Weapon
+Spark Gun
+5 1 0 0
+A Spark electric_attack 10 5 minimum_charge 5
+
+Weapon
+Rail Gun
+5 1 0 0
+A Fire electric_attack 5 5 minimum_charge 5
+
+Weapon
+Tesla Cannon
+5 1 0 0
+A Lightning electric_attack 20 15 minimum_charge 15
+P Arc electric_attack 1 1 minimum_charge 20
+
+Weapon
+Sword
+5 1 0 0
+A Stab attack 3
+
+Weapon
+Electric Sword
+5 1 0 0
+A ChargedStab electric_attack 7 3 minimum_charge 3
+A ChargedSlash electric_attack 5 2 minimum_charge 2
+

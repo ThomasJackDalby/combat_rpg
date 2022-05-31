@@ -1,0 +1,13 @@
+gear
+scrap
+gear
+
+
+
+# clockwork
+spring
+pulley
+ratchet
+gear
+oscillator
+pendulumn
